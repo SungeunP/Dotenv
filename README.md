@@ -1,0 +1,1 @@
+Dotenv와 Webpack DefinePlugin을 활용하여 개발/배포 환경의 환경 변수 설정을 분리하였습니다.
